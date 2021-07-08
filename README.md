@@ -26,4 +26,4 @@
 ### 4. Using os library to make a directory in the same folder as the python notebook, fetch the image link using requests and save the image using shutil.
 ### 5. After the images are saved in a local directory successfully, add the scraped data for the product in pandas Dataframe and convert it to csv for further usage.
 
-## Some of the Code Documentation to this project will be added in future.
+## Adding multi-page product links scraping in Product Link is to be added.
